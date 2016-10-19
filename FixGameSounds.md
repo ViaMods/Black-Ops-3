@@ -1,8 +1,8 @@
 # Fixing Game Sounds
 
-If you're not in the USA you most likely are having issues with not having game sounds. To fix this we have written up a tutorial below.
+If you're not in the USA you most likely are having issues with not having game sounds.
 
-Go to your Control Panel and clicking "Change date, time or number formats" under the "Clock, Language and Region" category.
+To fix this go to your Control Panel and clicking "Change date, time or number formats" under the "Clock, Language and Region" category.
 
 ![Control Panel Image](http://image.prntscr.com/image/e4437b0854d3436b91e5d3c47a2214b9.png)
 
