@@ -1,4 +1,4 @@
 # Black Ops 3 Mod Tools
-Welcome to the ViaMod's github.
+Welcome to the ViaMods Black Ops 3 Mod Tools Help Section.
 
 Here you will find tons of help for scripting, mapping, modding etc.
