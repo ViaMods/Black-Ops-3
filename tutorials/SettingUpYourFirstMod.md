@@ -1,5 +1,5 @@
 
-# Setting Up Your First Mod Tutorial
+# Setting Up Your First Mod
 
 Since the release of Black Ops 3 Mod Tools [Beta], I have been searching and searching for a tutorial on how to setup a standalone "Mod" which can be executed on any stock map or custom map. My constant searching lead me to nothing... my guess, no one has wrote a tutorial yet. So here it goes (I'll try be as beginner friendly as possible and if you don't understand anything, simply leave a reply!).
 
